@@ -23,7 +23,10 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'youtube', link: 'https://youtube.com/@fakesomefire' }
+      { icon: 'youtube', link: 'https://youtube.com/@fakesomefire' },
+      { icon: 'github', link: 'https://github.com/AToska21/ffdocs' },
+      { icon: 'x', link: 'https://x.com/@FakesomeFire' },
+      { icon: 'discord', link: 'https://discord.gg/mB5vJU6Zk7' }
     ]
   }
 })
