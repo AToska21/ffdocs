@@ -5,7 +5,7 @@
 2. Your Wii U's (modded with Aroma) SD Card.
 
 ::: tip
-You can have several Aroma environments. Consult a tutorial on how to do this.
+You can have several Aroma environments. This is not required but if you want a seperate environment for Pretendo and FakesomeFest you can do this. Consult a tutorial on how to do this.
 :::
 
 ## Installing the plugin
